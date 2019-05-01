@@ -1,3 +1,4 @@
+<?php
 <DOCTYPE html>
 <head>
 <meta charset="UTF-8">
@@ -11,3 +12,4 @@
 <h4>Lá vamos nós de novo</h4>
 </body>
 </html>
+?>
